@@ -9,7 +9,7 @@
     <br>
     
     <label for="mobile"><b>Mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Email</b></label>
@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thank you, Happy Learning </h1>
-   <h1> From, Sherwin</h1>
+   <h1> From, Sherwin Owen</h1>
 
   
 </form>
