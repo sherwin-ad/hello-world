@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thank you, Happy Learning </h1>
-   <h1> From, SOSA</h1>
+   <h1> From, Sherwin Owen Adriano</h1>
 
   
 </form>
